@@ -1,0 +1,7 @@
+cdeups.ups_tax_settings:
+  path: '/admin/config/slugify/settings'
+  defaults:
+    _form: '\Drupal\cdeups\Form\SlugifySettingsForm'
+    _title: 'Slugify Settings'
+  requirements:
+    _permission: 'administer site configuration'

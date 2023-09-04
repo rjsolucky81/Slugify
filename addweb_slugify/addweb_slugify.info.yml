@@ -1,0 +1,6 @@
+name: Addweb Slugify
+type: module
+description: 'Custom module for Text Manipulation Field Formatters.'
+core: 9.x
+core_version_requirement: ^9 || ^10
+package: 'Custom'
